@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-asdfasdf
-=======
+
 function randomRGB() {
     const r = Math.floor(Math.random() * 256);
     const g = 0;
@@ -14,4 +12,3 @@ const intervalId = setInterval(function () {
         letter.style.color = randomRGB();
     }
 }, 1000);
->>>>>>> try-purple
